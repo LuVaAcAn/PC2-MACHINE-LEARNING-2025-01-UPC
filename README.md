@@ -28,9 +28,9 @@ Una vez generado el archivo red_criptomonedas.html, puedes abrirlo fácilmente e
 El grafo permite explorar interactivamente las relaciones entre proyectos según su categoría.
 
 ## 📁 Archivos principales
-resultados.csv → Datos recolectados de CoinMarketCap / CoinGecko.
-visualizacionGrafo.py → Script de Python para construir y visualizar la red.
-red_criptomonedas.html → Visualización interactiva de la red.
+- resultados.csv → Datos recolectados de CoinMarketCap / CoinGecko
+- visualizacionGrafo.py → Script de Python para construir y visualizar la red.
+- red_criptomonedas.html → Visualización interactiva de la red.
 
 ### 💡 Notas
 Asegúrate de tener al menos 1000 proyectos para cumplir con los requisitos de análisis.
